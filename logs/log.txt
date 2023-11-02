@@ -1,0 +1,32 @@
+
+undefined GET: /
+
+undefined GET: /users
+
+undefined GET: /user
+
+undefined GET: /favicon.ico
+
+undefined GET: /user
+
+undefined GET: /users
+
+undefined POST: /api/users
+
+undefined GET: /users
+
+undefined GET: /api/users
+
+undefined GET: /api/users
+
+undefined DELETE: /api/users/653fd4c43b9a179e7cc9d00c
+
+undefined GET: /api/users
+
+undefined PATCH: /api/users/654306ad7a700dd4fc951a56
+
+undefined GET: /api/users
+
+undefined GET: /api/users/654306ad7a700dd4fc951a56
+
+undefined GET: /api/users/654306ad7a700dd4fc951a56
